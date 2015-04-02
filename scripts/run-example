@@ -1,0 +1,4 @@
+#!/bin/sh
+
+cd example
+node server.js

@@ -1,0 +1,38 @@
+{
+  "name": "react-cart",
+  "version": "0.0.1",
+  "description": "A shopping cart built with React and Flux",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "dist/"
+  ],
+  "scripts": {
+    "start": "scripts/run-example",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shaun Santa Cruz",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^0.13.1"
+  },
+  "devDependencies": {
+    "babel-core": "^4.7.2",
+    "babel-loader": "^4.2.0",
+    "css-loader": "^0.9.1",
+    "file-loader": "^0.8.1",
+    "object-assign": "^2.0.0",
+    "react-hot-loader": "^1.1.5",
+    "style-loader": "^0.9.0",
+    "url-loader": "^0.5.5",
+    "webpack": "^1.5.3",
+    "webpack-dev-server": "^1.8.0"
+  },
+  "dependencies": {
+    "classnames": "^1.2.0",
+    "flux": "^2.0.1",
+    "keymirror": "^0.1.1",
+    "lodash": "^3.6.0",
+    "react": "^0.13.1"
+  }
+}
