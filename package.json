@@ -1,6 +1,6 @@
 {
   "name": "react-cart",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A shopping cart built with React and Flux",
   "repository": "https://github.com/shaunsantacruz/react-cart.git",
   "main": "index.js",
@@ -33,6 +33,6 @@
   "dependencies": {
     "classnames": "^1.2.0",
     "keymirror": "^0.1.1",
-    "lodash": "^3.6.0",
+    "lodash": "^3.6.0"
   }
 }
