@@ -2,6 +2,7 @@
   "name": "react-cart",
   "version": "0.0.1",
   "description": "A shopping cart built with React and Flux",
+  "repository": "https://github.com/shaunsantacruz/react-cart.git",
   "main": "index.js",
   "files": [
     "index.js",
@@ -14,7 +15,8 @@
   "author": "Shaun Santa Cruz",
   "license": "MIT",
   "peerDependencies": {
-    "react": "^0.13.1"
+    "react": "^0.13.1",
+    "flux": "^2.0.1"
   },
   "devDependencies": {
     "babel-core": "^4.7.2",
